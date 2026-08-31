@@ -1,0 +1,21 @@
+{
+    "name": "mariama-ndour/lundi-wane",
+    "description": "Projet LundiWane",
+    "autoload": {
+        "psr-4": {
+            "\\App\\": "src/",
+            "\\App\\http\\": "src/Controller/",
+            "\\App\\Core\\": "src/Core/",
+            "\\App\\Entity\\": "src/Entity/" ,
+            "\\App\\model\\": "src/Repository/",
+            "\\App\\service\\": "src/service/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mariamandour",
+            "email": "ndourmaria06@gmail.com"
+        }
+    ],
+    "require": {}
+}
